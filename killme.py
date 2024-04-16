@@ -10,3 +10,5 @@ def minmax_aux(lista, n,  minimo, maximo, new):
         maximo = lista[n]
         new
         return lista, n+1, minimo, maximo, new
+
+print("help")
